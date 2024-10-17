@@ -1,10 +1,10 @@
-## dev.playground
+### dev.playground
 
 Issue를 통해 소프트웨어/IT 개발 관련한 Question, Topic을 남겨주시면 그 내용을 토대로 답변해드립니다.
 
 Issue에 올라온 Topic을 학습하고 때로는 자신을 돌아보기도 하면서 성장합니다.
 
-### 다음과 같은 Category의 내용들을 답변합니다.
+#### 다음과 같은 Category의 내용들을 답변합니다.
 - 언어, 페러다임에 관련한 논쟁
 - 서버 시스템 설계
 - 소프트 스킬
