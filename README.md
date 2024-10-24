@@ -1,6 +1,6 @@
 ### dev.playground
 
-[![Yotube](https://img.shields.io/youtube/channel/views/UCDh8zEDofOcrOMAOnSVL9Tg?label=Yotube&style=social)](https://www.youtube.com/@questionable.circle)
+[![Yotube](https://img.shields.io/youtube/channel/views/UCfTwLqP5GOjb4lpTYRy4OLw?label=Yotube&style=social)](https://www.youtube.com/@questionable.circle)
 
 [Issue](https://github.com/esperar/dev.playground/issues)에 올라온 내용들을 토대로 소프트웨어/IT 개발 관련한 Question, Topic을 남겨주시면 답변해드립니다.
 
